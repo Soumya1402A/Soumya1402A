@@ -22,5 +22,5 @@ I am Soumya Abbathini, an MCA graduate specializing in Artificial Intelligence a
 * Graduation year - 2025
 * Specialization - Artificial Intelligence
   
-**LinkedIn**: https://www.linkedin.com/in/soumyaabbathini/
+## LinkedIn**: https://www.linkedin.com/in/soumyaabbathini/
 ## **Email**: soumyaabbathini123@gmail.com
